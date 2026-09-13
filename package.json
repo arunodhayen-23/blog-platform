@@ -1,0 +1,14 @@
+{
+  "name": "marginalia-blog-platform",
+  "version": "1.0.0",
+  "description": "A small full-stack blog platform.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "lowdb": "^1.0.0",
+    "uuid": "^8.3.2"
+  }
+}
